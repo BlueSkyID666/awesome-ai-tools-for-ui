@@ -77,6 +77,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Design Resources for AI Agents](https://styles.refero.design/ai-agents/design-resources?utm_source=awesome-ai-tools-for-ui) - Curated directory of DESIGN.md resources and design references for AI agents.
 - [prompt-kit](https://www.prompt-kit.com/?utm_source=awesome-ai-tools-for-ui) - Accessible, customizable component primitives for AI interfaces, including prompt inputs, messages, reasoning, and tool views.
 
+- [UIDesigner](https://orkas.ai/agents/ui-designer/?source=gh_maxbogo) - Turns goals, PRDs, screenshots, Figma files, and brand references into editable HTML UI deliverables inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander.
+
 
 ## MCP Servers & Plugins
 
